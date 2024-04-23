@@ -1,5 +1,5 @@
-### Hi there 👋
- I'm beginner frontend developer
+ Hi 👋
+ I'm Anna, beginner frontend developer
  
 My stack
 
