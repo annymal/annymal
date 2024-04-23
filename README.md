@@ -1,13 +1,15 @@
- Hi 👋
+ <h1 align='center'>Hi 👋
  I'm Anna, beginner frontend developer
+ </h1>
+
  
-My stack
+ <h2>My stack</h2>
 
-![image](https://github.com/annymal/annymal/assets/126054273/c3e45341-3394-4304-b884-6cfd40ee152f)
-![image](https://github.com/annymal/annymal/assets/126054273/d7e1c56c-3ae0-4cd6-b248-3b22876464af)
-![image](https://github.com/annymal/annymal/assets/126054273/cda2d2e9-2f1f-4e79-b4f3-96d55d08642c)
 
-![image](https://github.com/annymal/annymal/assets/126054273/1a75f7a4-d49f-4e49-b2c0-9736e32c5930)
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" alt="javascript"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html">
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react">
+
 
 
  🌱 I’m currently learning redux, typescript
