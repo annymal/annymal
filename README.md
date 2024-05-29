@@ -12,13 +12,5 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap-">
 
- <h3>My works</h3>
- <ul>
-  <li><a href='annymal.github.io/auto-showroom/'>annymal.github.io/auto-showroom/</a></li>
-   <li><a href='annymal.github.io/company-photo/'>annymal.github.io/company-photo/</a></li>
-    <li><a href='annymal.github.io/ColorGenerator/'>annymal.github.io/ColorGenerator/</a></li>
-   <li><a href='annymal.github.io/company-careers/'>annymal.github.io/company-careers/</a></li>
- </ul>
-
  🌱 I’m currently learning redux, typescript
   
